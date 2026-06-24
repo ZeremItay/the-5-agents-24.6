@@ -1,0 +1,8 @@
+# משתני סביבה וסודות — לעולם לא עולים ל-git
+.env
+.env.*
+!.env.example
+
+# מערכת הפעלה
+Thumbs.db
+.DS_Store
